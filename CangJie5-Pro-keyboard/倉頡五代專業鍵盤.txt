@@ -1,0 +1,13 @@
+preset_keyboards:
+  cangjie5:
+    ascii_mode: 0
+    author: "鄧國復"
+    height: 45
+    keys: [
+{click: 0, long_click: "!", swipe_up: "零"}, {click: 9, long_click: "@", swipe_up: "玖"}, {click: 8, long_click: "#", swipe_up: "捌"}, {click: 7, long_click: "$", swipe_up: "柒"}, {click: 6, long_click: "%", swipe_up: "陸"}, {click: 5, long_click: "^", swipe_up: "伍"}, {click: 4, long_click: "&", swipe_up: "肆"}, {click: 3, long_click: "*", swipe_up: "參"}, {click: 2, long_click: "(", swipe_up: "貳"}, {click: 1, long_click: ")", swipe_up: "壹"}, 
+{click: q, label: "q手", long_click: _}, {click: w, label: "w田", long_click: "-"}, {click: e, label: "e水", long_click: "+"}, {click: r, label: "r口", long_click: "="}, {click: t, label: "t廿", long_click: "|"}, {click: y, label: "y卜", long_click: "\\"}, {click: u, label: "u山", long_click: "["}, {click: i, label: "i戈", long_click: "]"}, {click: o, label: "o人", long_click: "{"}, {click: p, label: "p心", long_click: "}"}, 
+{click: a, label: "a日", long_click: select_all}, {click: s, label: "s尸", long_click: "'"}, {click: d, label: "d木", long_click: "\""}, {click: f, label: "f火", long_click: Home}, {click: g, label: "g土", long_click: End}, {click: h, label: "h竹", long_click: Up, swipe_up: Up}, {click: j, label: "j十", long_click: "~"}, {click: k, label: "k大", long_click: Page_Up}, {click: l, label: "l中", long_click: Page_Down}, {click: ";", long_click: ":"}, 
+{click: z, label: "z通", long_click: "`"}, {click: x, label: "x難", long_click: cut}, {click: c, label: "c金", long_click: copy}, {click: v, label: "v女", long_click: paste}, {click: b, label: "b月", long_click: Left, swipe_left: Left, swipe_up: Left}, {click: n, label: "n弓", long_click: Down, swipe_down: Down, swipe_up: Down}, {click: m, label: "m一", long_click: Right, swipe_right: Right, swipe_up: Right}, {click: ",", long_click: "<", paging: Page_Up}, {click: ., has_menu: Page_Down, long_click: ">"}, {click: "/", long_click: "?"}, 
+{click: Shift_L, composing: "'", send_bindings: true, width: 15}, {click: Keyboard_number, long_click: Keyboard_symbols, width: 15}, {click: space, long_click: VOICE_ASSIST, swipe_up: "\t", width: 25}, {click: Menu, long_click: F4, width: 15}, {click: BackSpace, long_click: Escape, swipe_right: Delete, swipe_up: Escape, width: 15}, {click: Return, long_click: CommitComment, width: 15}]
+    name: "倉頡五代專業鍵盤"
+    width: 10
