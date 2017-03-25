@@ -1,0 +1,12 @@
+  bopomofo:
+    ascii_mode: 0
+    author: "鄧國復"
+    height: 45
+    keys: [
+{click: 0, label: "ㄢ", long_click: "!", swipe_up: "零"}, {click: 9, label: "ㄞ", long_click: "@", swipe_up: "玖"}, {click: 8, label: "ㄚ", long_click: "#", swipe_up: "捌"}, {click: 7, label: "˙", long_click: "$", swipe_up: "柒"}, {click: 6, label: "ˊ", long_click: "%", swipe_up: "陸"}, {click: 5, label: "ㄓ", long_click: "^", swipe_up: "伍"}, {click: 4, label: "ˋ", long_click: "&", swipe_up: "肆"}, {click: 3, label: "ˇ", long_click: "*", swipe_up: "參"}, {click: 2, label: "ㄉ", long_click: "(", swipe_up: "貳"}, {click: 1, label: "ㄅ", long_click: ")", swipe_up: "壹"}, 
+{click: p, label: "ㄣ", long_click: _}, {click: o, label: "ㄟ", long_click: "-"}, {click: i, label: "ㄛ", long_click: "+"}, {click: u, label: "ㄧ", long_click: "="}, {click: y, label: "ㄗ", long_click: "|"}, {click: t, label: "ㄔ", long_click: "\\"}, {click: r, label: "ㄐ", long_click: "["}, {click: e, label: "ㄍ", long_click: "]"}, {click: w, label: "ㄊ", long_click: "{"}, {click: q, label: "ㄆ", long_click: "}"}, 
+{click: ";", label: "ㄤ", long_click: select_all}, {click: l, label: "ㄠ", long_click: "'"}, {click: k, label: "ㄜ", long_click: "\""}, {click: j, label: "ㄨ", long_click: Home}, {click: h, label: "ㄘ", long_click: End}, {click: g, label: "ㄕ", long_click: Up, swipe_up: Up}, {click: f, label: "ㄑ", long_click: "~"}, {click: d, label: "ㄎ", long_click: Page_Up}, {click: s, label: "ㄋ", long_click: Page_Down}, {click: a, label: "ㄇ", long_click: ":"}, 
+{click: "/", label: "ㄥ", long_click: "`"}, {click: ".", label: "ㄡ", long_click: cut}, {click: ",", label: "ㄝ", long_click: copy}, {click: m, label: "ㄩ", long_click: paste}, {click: n, label: "ㄙ", long_click: Left, swipe_left: Left, swipe_up: Left}, {click: b, label: "ㄖ", long_click: Down, swipe_down: Down, swipe_up: Down}, {click: v, label: "ㄒ", long_click: Right, swipe_right: Right, swipe_up: Right}, {click: c, label: "ㄏ", long_click: "<"}, {click: x, label: "ㄌ", long_click: ">"}, {click: z, label: "ㄈ", long_click: "?"}, 
+{click: Shift_L, composing: "'", send_bindings: true, width: 14}, {click: Keyboard_number, long_click: Keyboard_symbols, width: 14}, {click: space, long_click: VOICE_ASSIST, swipe_up: "\t", width: 20}, {click: "-", label: "ㄦ", long_click: "，", swipe_up: "。", width: 10}, {click: Menu, long_click: F4, width: 14}, {click: BackSpace, long_click: Escape, swipe_right: Delete, swipe_up: Escape, width: 14}, {click: Return, long_click: CommitComment, width: 14}]
+    name: "右起註音專業鍵盤"
+    width: 10
